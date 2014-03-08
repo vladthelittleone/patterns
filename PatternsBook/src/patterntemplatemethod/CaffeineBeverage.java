@@ -1,4 +1,4 @@
-package templatemethod;
+package patterntemplatemethod;
 
 /**
  * Project: PatternsBook

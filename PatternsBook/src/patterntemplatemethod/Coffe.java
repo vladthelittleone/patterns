@@ -1,13 +1,13 @@
-package templatemethod;
+package patterntemplatemethod;
 
 /**
  * Project: PatternsBook
  * Date: 27.02.14
- * Time: 1:30
+ * Time: 1:19
  *
  * @author Skurishin Vladislav
  */
-public class Tea extends CaffeineBeverage{
+public class Coffe extends CaffeineBeverage {
 
     @Override
     public void brew(){
@@ -15,8 +15,7 @@ public class Tea extends CaffeineBeverage{
     }
 
     @Override
-    void addCondiments(){
+    public void addCondiments(){
         System.out.println("Adding Sugar and Milk");
     }
-
 }
