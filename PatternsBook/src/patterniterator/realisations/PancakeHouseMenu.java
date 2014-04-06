@@ -1,7 +1,7 @@
 package patterniterator.realisations;
 
 import patterniterator.Menu;
-import patterniterator.MenuItem;
+import patterncomposite.impl.MenuItem;
 
 import java.util.ArrayList;
 import java.util.Iterator;

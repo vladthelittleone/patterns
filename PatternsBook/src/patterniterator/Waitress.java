@@ -1,7 +1,6 @@
 package patterniterator;
 
-import patterniterator.realisations.DinerMenu;
-import patterniterator.realisations.PancakeHouseMenu;
+import patterncomposite.impl.MenuItem;
 
 import java.util.Iterator;
 

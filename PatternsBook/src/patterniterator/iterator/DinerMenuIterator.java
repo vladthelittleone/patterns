@@ -1,6 +1,6 @@
 package patterniterator.iterator;
 
-import patterniterator.MenuItem;
+import patterncomposite.impl.MenuItem;
 
 import java.util.Iterator;
 
