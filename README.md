@@ -1,4 +1,4 @@
-pattern
+Head First Design Patterns Examples.
 =======
 
 Практика из книги - "Паттерны проектирования". 
